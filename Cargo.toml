@@ -25,3 +25,5 @@ walkdir = "2"
 percent-encoding = "2"
 tower = "0.5"
 tower-http = { version = "0.5", features = ["trace", "fs", "cors"] }
+anyhow = "1.0.100"
+dotenvy = "0.15.7"
